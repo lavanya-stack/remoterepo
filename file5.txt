@@ -1,3 +1,7 @@
 initial content
 Feature work
+<<<<<<< HEAD
 master branch update
+=======
+Feature2 work
+>>>>>>> b1c77d9 (Feature2 commit)
